@@ -1,0 +1,28 @@
+/Users/merykarenovna/RiderProjects/KT1_async/KT1_async/bin/Debug/net10.0/KT1_async
+/Users/merykarenovna/RiderProjects/KT1_async/KT1_async/bin/Debug/net10.0/KT1_async.deps.json
+/Users/merykarenovna/RiderProjects/KT1_async/KT1_async/bin/Debug/net10.0/KT1_async.runtimeconfig.json
+/Users/merykarenovna/RiderProjects/KT1_async/KT1_async/bin/Debug/net10.0/KT1_async.dll
+/Users/merykarenovna/RiderProjects/KT1_async/KT1_async/bin/Debug/net10.0/KT1_async.pdb
+/Users/merykarenovna/RiderProjects/KT1_async/KT1_async/obj/Debug/net10.0/KT1_async.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merykarenovna/RiderProjects/KT1_async/KT1_async/obj/Debug/net10.0/KT1_async.AssemblyInfoInputs.cache
+/Users/merykarenovna/RiderProjects/KT1_async/KT1_async/obj/Debug/net10.0/KT1_async.AssemblyInfo.cs
+/Users/merykarenovna/RiderProjects/KT1_async/KT1_async/obj/Debug/net10.0/KT1_async.csproj.CoreCompileInputs.cache
+/Users/merykarenovna/RiderProjects/KT1_async/KT1_async/obj/Debug/net10.0/KT1_async.dll
+/Users/merykarenovna/RiderProjects/KT1_async/KT1_async/obj/Debug/net10.0/refint/KT1_async.dll
+/Users/merykarenovna/RiderProjects/KT1_async/KT1_async/obj/Debug/net10.0/KT1_async.pdb
+/Users/merykarenovna/RiderProjects/KT1_async/KT1_async/obj/Debug/net10.0/KT1_async.genruntimeconfig.cache
+/Users/merykarenovna/RiderProjects/KT1_async/KT1_async/obj/Debug/net10.0/ref/KT1_async.dll
+/Users/merykarenovna/ASYNC/KT1_async copy/KT1_async/bin/Debug/net10.0/KT1_async
+/Users/merykarenovna/ASYNC/KT1_async copy/KT1_async/bin/Debug/net10.0/KT1_async.deps.json
+/Users/merykarenovna/ASYNC/KT1_async copy/KT1_async/bin/Debug/net10.0/KT1_async.runtimeconfig.json
+/Users/merykarenovna/ASYNC/KT1_async copy/KT1_async/bin/Debug/net10.0/KT1_async.dll
+/Users/merykarenovna/ASYNC/KT1_async copy/KT1_async/bin/Debug/net10.0/KT1_async.pdb
+/Users/merykarenovna/ASYNC/KT1_async copy/KT1_async/obj/Debug/net10.0/KT1_async.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merykarenovna/ASYNC/KT1_async copy/KT1_async/obj/Debug/net10.0/KT1_async.AssemblyInfoInputs.cache
+/Users/merykarenovna/ASYNC/KT1_async copy/KT1_async/obj/Debug/net10.0/KT1_async.AssemblyInfo.cs
+/Users/merykarenovna/ASYNC/KT1_async copy/KT1_async/obj/Debug/net10.0/KT1_async.csproj.CoreCompileInputs.cache
+/Users/merykarenovna/ASYNC/KT1_async copy/KT1_async/obj/Debug/net10.0/KT1_async.dll
+/Users/merykarenovna/ASYNC/KT1_async copy/KT1_async/obj/Debug/net10.0/refint/KT1_async.dll
+/Users/merykarenovna/ASYNC/KT1_async copy/KT1_async/obj/Debug/net10.0/KT1_async.pdb
+/Users/merykarenovna/ASYNC/KT1_async copy/KT1_async/obj/Debug/net10.0/KT1_async.genruntimeconfig.cache
+/Users/merykarenovna/ASYNC/KT1_async copy/KT1_async/obj/Debug/net10.0/ref/KT1_async.dll
