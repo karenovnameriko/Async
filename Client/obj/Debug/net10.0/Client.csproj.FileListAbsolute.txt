@@ -1,0 +1,14 @@
+/Users/merykarenovna/asynctask/Client/bin/Debug/net10.0/Client
+/Users/merykarenovna/asynctask/Client/bin/Debug/net10.0/Client.deps.json
+/Users/merykarenovna/asynctask/Client/bin/Debug/net10.0/Client.runtimeconfig.json
+/Users/merykarenovna/asynctask/Client/bin/Debug/net10.0/Client.dll
+/Users/merykarenovna/asynctask/Client/bin/Debug/net10.0/Client.pdb
+/Users/merykarenovna/asynctask/Client/obj/Debug/net10.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merykarenovna/asynctask/Client/obj/Debug/net10.0/Client.AssemblyInfoInputs.cache
+/Users/merykarenovna/asynctask/Client/obj/Debug/net10.0/Client.AssemblyInfo.cs
+/Users/merykarenovna/asynctask/Client/obj/Debug/net10.0/Client.csproj.CoreCompileInputs.cache
+/Users/merykarenovna/asynctask/Client/obj/Debug/net10.0/Client.dll
+/Users/merykarenovna/asynctask/Client/obj/Debug/net10.0/refint/Client.dll
+/Users/merykarenovna/asynctask/Client/obj/Debug/net10.0/Client.pdb
+/Users/merykarenovna/asynctask/Client/obj/Debug/net10.0/Client.genruntimeconfig.cache
+/Users/merykarenovna/asynctask/Client/obj/Debug/net10.0/ref/Client.dll
