@@ -1,0 +1,21 @@
+
+# Сборка .NET
+**/bin/
+**/obj/
+
+# IDE
+.idea/
+.vs/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Файлы пользователей IDE
+*.user
+*.suo
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
