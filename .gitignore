@@ -1,10 +1,10 @@
-
 # Сборка .NET
 **/bin/
 **/obj/
 
 # IDE
 .idea/
+**/.idea/
 .vs/
 .vscode/
 
